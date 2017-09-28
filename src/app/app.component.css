@@ -1,0 +1,31 @@
+.backgroundBlue{
+    background-color: #87ceeb;
+}
+
+.header{
+    margin: 10px auto 35px auto;
+    width: 90%;
+    display: inline-block;
+    padding: 18px;
+}
+
+.pagemain{
+    padding: 5px;
+    margin: 0px;
+    width: 100%;
+    /* display: inline-block; */
+}
+
+.maincontent{
+    vertical-align: top;
+    margin: 10px auto 10px auto;
+    width: 60%;
+    display: inline-block;
+}
+
+.navpane{
+    vertical-align: top;
+    margin: 10px auto 10px 10px;
+    display: inline-block;
+    width: 26%;
+}
